@@ -1,0 +1,3 @@
+Plaintext: I am Rubel from RU.
+Encrypted: T jx Ychxr xutm KM.
+Decrypted: I am Rubel from RU.
